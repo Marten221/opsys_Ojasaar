@@ -1,4 +1,4 @@
-# Praktikum 1, virtualboxi installeerimine
+# Praktikum 1 aruanne
 
 Esimeses praktikumis installeerisin enda isiklikku arvutisse rakenduse nimega VirtualBox. VirtualBoxis lõin oma esimese virtuaalse masina, mille peal jookseb Windows 11. Ülejäänud tegevused piirdusid Windowsi ülessättimisega.
 
