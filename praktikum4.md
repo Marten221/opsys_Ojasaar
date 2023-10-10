@@ -19,7 +19,7 @@ Tegevus, mille jaoks on vaja SYSTEM-i õigusi (ja mille puhul administraatori õ
 
 
 ## Ülesanne 4-5
-![ülesanne 4-5](https://github.com/Marten221/opsys_Ojasaar/assets/144438767/9dc18a57-0793-4dcf-b408-fd1b4c64147a)
+![ylesanne 4-5 2 see oige](https://github.com/Marten221/opsys_Ojasaar/assets/144438767/0ca071b6-2077-4b07-bdf9-5c9e5399a7b7)
 
 
 ## Ülesanne 4-6
