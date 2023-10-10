@@ -1,4 +1,4 @@
-# Praktikum4
+# Praktikum 4
 
 Neljandas praktikum tõi meid tagasi Windows-i juurde. Sain palju uut informatsiooni kasutaja õiguste ja faili ligipääsuõiguste kohta. Selles praktikumis oli juba konkreetselt näha, et juhend on palju vähem põhjalik ning peab ise palju rohkem kaasa mõtlema, et õige vastuseni jõuda.
 
