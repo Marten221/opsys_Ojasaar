@@ -1,4 +1,5 @@
 # 5. praktikumi aruanne
+See oli kindlasti kõige keerukam praktikum, mis seni olnud on. Mul kulus väga mitu tundi, et õigustest lõpuks enamvähem aru saada. Seda praktikumi kirjeldaks lausega: aega läks, aga asja sai.
 
 ## Ülesanne 5-1
 a) Kataloogis /tmp/kaust oleva faili minufail.txt lugemiseks on minimaalselt vaja kaustal r-x ning failil r-- õiguseid.
