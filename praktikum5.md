@@ -26,7 +26,7 @@ Jah, setuid võib vähendada süsteemi turvalisust. Selle abil võivad pahatahtl
 
 
 ## Ülesanne 5-7
-peeter, root, admin kasutaja kasutades sudo
+peeter, root ja kataloogi omanik opetaja
 
 ## Ülesanne 5-8
 Märkasin, et peale tavakasutaja õiguseid oli "+", Googeldasin mida see tähendab ning sain vastuseks, et see "+" viitab faili lisaseadete või attribuutide olemasolule, ehk antud faili on seadistatud täiendatavate atribuutidega.
