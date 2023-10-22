@@ -13,6 +13,8 @@ ps -axu | grep daemon | sort | tr -s " " | cut -d" " -f11-
 
 ## 6-4
 ip a | sort | tr -s " " | cut -d" " -f3 | tail -n+3 | head -1 | cut -d"/" -f1
+
+Koos faili suunamisega:  
 ip a | sort | tr -s " " | cut -d" " -f3 | tail -n+3 | head -1 | cut -d"/" -f1 > ipaddress.txt
 
 ![ülesanne 4](https://github.com/Marten221/opsys_Ojasaar/assets/144438767/22169144-9899-4b57-bfb8-c9d75953214c)
