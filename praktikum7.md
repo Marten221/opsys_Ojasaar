@@ -9,11 +9,11 @@ Partitsioneerimine: Lähtestamise ajal saab valida, kuidas kandja partitsioneeri
 Ühilduvus: Uued andmekandjad võivad olla vaikimisi initsialiseerimata, et tagada nende ühilduvus erinevate süsteemidega, nagu Windows, Linux või Mac. Lähtestamise valikud võimaldavad valida sobiva vormingu.  
 
 2)
-GPT on töökindlam ja võimaldab kasutada andmekandjaid suuremad kui 2TB.
+GPT on töökindlam ja võimaldab kasutada andmekandjaid suuremad kui 2TB. MBR suudab hallata kettaid, mille suurus on kuni 2 terabaiti (TB), samas kui GPT võimaldab partitsioneerida kettaid, mis on palju suuremad, 2 terabaidist kuni zettabaitideni. See on eriti oluline tänapäeva suurte andmekandjate ja serverite puhul.
 
 GPT-d saavad kasutada mitmed erinevad operatsioonisüsteemid, näiteks Linux, MacOS ja Windows.
 
 GPT pakub paremat andmekaitset ja andmete taastamisvõimalusi.
 
-GPT toetab suuremat partitsioonide arvu võrreldes MBR-iga.
+GPT toetab suuremat partitsioonide arvu võrreldes MBR-iga. MBR piirdub tavaliselt nelja primaarse partitsiooniga või kolme primaarse partitsiooniga ja ühe laiendatud partitsiooniga, mis võib sisaldada mitmeid loogilisi partitsioone. GPT võimaldab kasutada kuni 128 partitsiooni.
 
