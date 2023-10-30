@@ -16,3 +16,6 @@ GPT pakub paremat andmekaitset ja andmete taastamisvõimalusi.
 
 GPT toetab suuremat partitsioonide arvu võrreldes MBR-iga. MBR piirdub tavaliselt nelja primaarse partitsiooniga või kolme primaarse partitsiooniga ja ühe laiendatud partitsiooniga, mis võib sisaldada mitmeid loogilisi partitsioone. GPT võimaldab kasutada kuni 128 partitsiooni.
 
+## Ülesanne 3
+https://kodu.ut.ee/~martenoj/hdd.png 
+
