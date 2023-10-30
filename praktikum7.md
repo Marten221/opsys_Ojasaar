@@ -23,7 +23,8 @@ https://kodu.ut.ee/~martenoj/hdd.png
 ![Kuvatõmmis 2023-10-23 131509](https://github.com/Marten221/opsys_Ojasaar/assets/144438767/539f01ca-9b3d-4cc3-8e48-628f4c7ee1fc)
 
 ## Ülesanne 5: Mida mõjutasid mount-käsu parameetrid -o ro ja -t auto?
--o ro: See parameeter tähistab "read-only" ehk lugemisrežiimi. Kui see parameeter on antud, monteeritakse kettaseade nii, et sellele ei saa kirjutada ega muuta andmeid.
+'-o ro': See parameeter tähistab "read-only" ehk lugemisrežiimi. Kui see parameeter on antud, monteeritakse kettaseade nii, et sealt saab andmeid ainult lugeda. '-o': tähendab lihtsalt valikuid(Options).  
+'-t auto': tähendab, et mount-käsk proovib automaatselt tuvastada ketta või partitsiooni failisüsteemi tüübi. '-t': on mount-käsus kasutatav parameeter, mis võimaldab teil määrata konkreetse failisüsteemi tüübi.
 
 ## Ülesanne 6
 
