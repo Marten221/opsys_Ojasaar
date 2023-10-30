@@ -22,3 +22,7 @@ https://kodu.ut.ee/~martenoj/hdd.png
 ## Ülesanne 4
 ![Kuvatõmmis 2023-10-23 131509](https://github.com/Marten221/opsys_Ojasaar/assets/144438767/539f01ca-9b3d-4cc3-8e48-628f4c7ee1fc)
 
+## Ülesanne 5
+![image](https://github.com/Marten221/opsys_Ojasaar/assets/144438767/19f0f98b-821a-4040-8df8-7efe920a6387)
+
+
