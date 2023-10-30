@@ -10,7 +10,7 @@ Partitsioneerimine: Lähtestamise ajal saab valida, kuidas kandja partitsioneeri
 ## Ülesanne 2: Millised on GPT kasutamise eelised võrreldes MBRiga?
 GPT on töökindlam ja võimaldab kasutada andmekandjaid suuremad kui 2TB. MBR suudab hallata kettaid, mille suurus on kuni 2 terabaiti (TB), samas kui GPT võimaldab partitsioneerida kettaid, mis on palju suuremad, 2 terabaidist kuni zettabaitideni. See on eriti oluline tänapäeva suurte andmekandjate ja serverite puhul.
 
-GPT-d saavad kasutada mitmed erinevad operatsioonisüsteemid, näiteks Linux, MacOS ja Windows.
+GPT-d saavad kasutada mitmeid erinevad operatsioonisüsteemid, näiteks Linux, MacOS ja Windows.
 
 GPT pakub paremat andmekaitset ja andmete taastamisvõimalusi.
 
