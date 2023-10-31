@@ -20,5 +20,5 @@
 ![image](https://github.com/Marten221/opsys_Ojasaar/assets/144438767/5671b2c3-0275-42af-8d52-77c2001dd2a5)
 
 
-## Ülesanne 5: Esitage ekraanivaade tõestamaks, et teil on olemas aktiivne OneDrive failide sünkroniseerimine kohaliku arvuti ja pilveandmete vahel. Vaheleht Settings -> Account. 
-
+## Ülesanne 5: Esitage ekraanivaade tõestamaks, et teil on olemas aktiivne OneDrive failide sünkroniseerimine kohaliku arvuti ja pilveandmete vahel.
+![image](https://github.com/Marten221/opsys_Ojasaar/assets/144438767/39c75280-852b-426d-a8fb-49f0a3765725)
