@@ -27,7 +27,7 @@ https://kodu.ut.ee/~martenoj/hdd.png
 '-t auto': tähendab, et mount-käsk proovib automaatselt tuvastada ketta või partitsiooni failisüsteemi tüübi. '-t': on mount-käsus kasutatav parameeter, mis võimaldab teil määrata konkreetse failisüsteemi tüübi.
 
 ## Ülesanne 6
-
+auto asendatakse fuseblk -ga
 
 ## Ülesanne 7
 ![image](https://github.com/Marten221/opsys_Ojasaar/assets/144438767/19f0f98b-821a-4040-8df8-7efe920a6387)
