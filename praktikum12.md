@@ -45,6 +45,16 @@ done
 ### Skripti käsurea väljund
 ![image](https://github.com/Marten221/opsys_Ojasaar/assets/144438767/1c5eea18-b4d8-47a1-b52b-286feaf2cd4f)
 
-## Ülesanne 3
+## Ülesanne 5
+```
+#!/bin/bash
+IFS=$'\n'
 
+echo "Sisesta protsessi nimi:"
+read nimi
+
+pid=$(ps -A | grep bash | tr -s ' ' | cut -d ' ' -f2)
+echo "Protsessi-ID: $pid"
+echo "Protsessi nimi: $nimi"
+```
 ## Ülesanne 4
