@@ -25,8 +25,5 @@ Serveritarkvara: cloudflare
 Veakood 404 tähendab, Server ei leidnud midagi, mis vastaks antud URI-le.
 ## Ülesanne 4
 
-## Ülesanne 5
+![image](https://github.com/Marten221/opsys_Ojasaar/assets/144438767/e22f16e6-8983-4f4a-bb97-abdfec00834a)
 
-## Ülesanne 6
-
-## Ülesanne 7
