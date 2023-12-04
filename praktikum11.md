@@ -11,7 +11,7 @@
 ![image](https://github.com/Marten221/opsys_Ojasaar/assets/144438767/d5442caf-20f2-47e4-ae9b-2d56136bd264)
 
 ## Ülesanne 2
-![image](https://github.com/Marten221/opsys_Ojasaar/assets/144438767/9ad25c88-a052-451c-b8d1-d21e88e733a1)
+![image](https://github.com/Marten221/opsys_Ojasaar/assets/144438767/34b5fdaa-de5a-4e0f-b3bf-e652ad1285d0)
 
 ## Ülesanne 3
 ### 3.1
