@@ -1,3 +1,4 @@
+``` 
 #$nr:	küsimuse number
 #$param: mis parameetriga tegemist (võimalikult lühidalt)
 #$sisu:	väljastatav sisu
@@ -71,7 +72,7 @@ $ajakulu = ($aegL - $aegA)
 Valjasta "*" "TEHTUD" "$ajakulu`n`n"
 
 Stop-Transcript
-
+``` 
 
 
 # Faili tee seadmine:
@@ -84,7 +85,7 @@ Start-Transcript -Path $failiTee -Append -Alustab skripti jooksul transkriptsioo
 
 try-finally blokk tagab, et isegi kui midagi läheb valesti (try-plokis), taastatakse ErrorActionPreference väärtus lõpuks (finally-plokis). Lisasin selle, kuna punktis 9 oli mitmetele protsesside algusajale ligipääs keelatud.
 
-# info kogumine:
+# Info kogumine:
 Skript kogub mitmesugust süsteemiinfot ja väljastab selle funktsiooni valjasta abil:
 
     Get-CimInstance: See käsustik tagastab Windows Management Instrumentation (WMI) objektide eksemplarid.
