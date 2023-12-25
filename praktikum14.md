@@ -13,6 +13,7 @@
 ![image](https://github.com/Marten221/opsys_Ojasaar/assets/144438767/3e1e2266-2401-43c7-a106-4537b271c92b)
 
 ## Ülesanne 5
+![image](https://github.com/Marten221/opsys_Ojasaar/assets/144438767/88617524-6cc7-4d4c-811a-553742bd53aa)
 
 ## Ülesanne 6
 
