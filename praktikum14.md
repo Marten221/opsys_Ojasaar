@@ -7,8 +7,10 @@
 
 
 ## Ülesanne 3
+![image](https://github.com/Marten221/opsys_Ojasaar/assets/144438767/43a27c3f-0abb-4e0c-8d40-3007fdfc58b1)
 
 ## Ülesanne 4
+![image](https://github.com/Marten221/opsys_Ojasaar/assets/144438767/3e1e2266-2401-43c7-a106-4537b271c92b)
 
 ## Ülesanne 5
 
