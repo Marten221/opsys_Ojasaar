@@ -16,5 +16,24 @@
 ![image](https://github.com/Marten221/opsys_Ojasaar/assets/144438767/88617524-6cc7-4d4c-811a-553742bd53aa)
 
 ## Ülesanne 6
+![image](https://github.com/Marten221/opsys_Ojasaar/assets/144438767/4e337161-5517-4d94-8810-177e996c256e)
 
-## Ülesanne 7
+```
+kausta_tee="accident"
+
+if [ -d "$kausta_tee" ]; then
+  cd "$kausta_tee"
+
+  for fail in *.md; do
+    if [ -f "$fail" ] && [ -s "$fail" ]; then
+      echo "Fail, mis sisaldab parooli: $fail"
+      cat "$fail"
+      echo -e "\n-----------------\n"
+    fi
+  done
+
+  cd -
+else
+  echo "Viga: Kausta pole olemas - $kausta_tee"
+fi
+```
